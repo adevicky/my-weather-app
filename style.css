@@ -4,13 +4,26 @@ h1{
     font-family: PT monospace;
     text-align: center;
 }
-.yoghurt {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-  border-radius: 8px;
-}  
+ 
 button {
     display: block;
-    margin: 0 auto;
+    margin: 20px auto;
+    border-radius: 5px;
+    color: brown;
+    border: 1px solid brown;
 }
+footer {
+  text-align: center;
+  font-family:  monospace;
+}
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+.yoghurt {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  border-radius: 20px;
+} 
